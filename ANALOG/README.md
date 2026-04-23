@@ -1,4 +1,4 @@
-### 2 BIT ADC DESIGN AND ANALYSIS
+# 2 BIT ADC DESIGN AND ANALYSIS
 
 An n bit ADC gives every sampled AC value a digital value based on certain thresholds to produce a digital signal of n bits
 
